@@ -18,6 +18,31 @@
 ✨ Restful APIs <br/>
 ✨ Mobile applications <br/>
 
+white_check_mark Payment Method Integration (Including Recurring Payment/Vaulting):
+◆ PayPal Pro / PayPal Advanced / Payflow Pro
+◆ Braintree
+◆ Authorize.Net
+◆ First Data
+◆ RazorPay
+◆ Stripe
+◆ Amazon Payments
+◆ SecurePay
+◆ Square Payments
+◆ AffiniPay
+◆ PayUBiz
+◆ PayUmoney / PayUBiz
+
+sparkleFront-end/JavaScript Frameworks:
+heavy_check_mark ReactJS, Redux,
+heavy_check_mark VueJS,
+heavy_check_mark AngularJS,
+heavy_check_mark TypeScript,
+heavy_check_mark ES6+
+heavy_check_mark jQuery
+heavy_check_mark Knockout.js,
+heavy_check_mark Gatsby
+heavy_check_mark Express.js
+
 <p>I am sure I can provide you with the perfect Result.</p>
 
 <p> Let's discuss for success!!! <a href="mailto:jiyanilalji2323@gmail.com">Contact me</a> 😊 </p>
