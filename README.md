@@ -18,30 +18,27 @@
 ✨ Restful APIs <br/>
 ✨ Mobile applications <br/>
 
-white_check_mark Payment Method Integration (Including Recurring Payment/Vaulting):
-◆ PayPal Pro / PayPal Advanced / Payflow Pro
-◆ Braintree
-◆ Authorize.Net
-◆ First Data
-◆ RazorPay
-◆ Stripe
-◆ Amazon Payments
-◆ SecurePay
-◆ Square Payments
-◆ AffiniPay
-◆ PayUBiz
-◆ PayUmoney / PayUBiz
+white_check_mark Payment Method Integration (Including Recurring Payment/Vaulting): <br/>
+◆ PayPal Pro / PayPal Advanced / Payflow Pro <br/>
+◆ Braintree <br/>
+◆ Authorize.Net <br/>
+◆ First Data <br/>
+◆ RazorPay <br/>
+◆ Stripe <br/>
+◆ Amazon Payments <br/>
+◆ SecurePay <br/>
+◆ Square Payments <br/>
+◆ AffiniPay <br/>
+◆ PayUBiz <br/>
+◆ PayUmoney / PayUBiz <br/>
 
-sparkleFront-end/JavaScript Frameworks:
-heavy_check_mark ReactJS, Redux,
-heavy_check_mark VueJS,
-heavy_check_mark AngularJS,
-heavy_check_mark TypeScript,
-heavy_check_mark ES6+
-heavy_check_mark jQuery
-heavy_check_mark Knockout.js,
-heavy_check_mark Gatsby
-heavy_check_mark Express.js
+sparkleFront-end/JavaScript Frameworks: <br/>
+✔️  ReactJS, <br/>
+✔️ VueJS, <br/>
+✔️ AngularJS, <br/>
+✔️ TypeScript, <br/>
+✔️ jQuery <br/>
+
 
 <p>I am sure I can provide you with the perfect Result.</p>
 
